@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/887174122805796896/1092634557578236065/download20230401231917.png?width=676&height=676">
 </div>
   
   ##
